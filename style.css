@@ -29,7 +29,7 @@ div{
 .text{
  background-color:rgb(82, 96, 133);
         border: 3px solid;
-        width: 650px;
+        width: fit-content;
         border-radius: 15px;
         padding:8px;
 }
