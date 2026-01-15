@@ -64,6 +64,12 @@ fill(255, 0, 0);
 ellipse(x+105,y+50,5,5); //the ring
 stroke(0,0,0);
 
+//CLANG
+fill(219, 129, 72);
+ellipse(280, 50, headSize, headSize); //head
+fill(110, 11, 11);
+rect(274,54,10,30); //body
+
 fill(255,255,255);
 textSize(30);
 text("❄",200,snowY);
